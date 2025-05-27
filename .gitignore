@@ -1,0 +1,38 @@
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code settings
+.vscode/
+.vs/
+.history
+
+# ASP.NET temporary files
+*.vspscc
+*.vssscc
+
+# DotNet specific
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# NuGet packages
+*.nupkg
+packages/
+*.snupkg
+
+# Others
+*.log
+*.tlog
+*.cache
+*.pdb
+
+# OS generated files
+.DS_Store
+Thumbs.db
